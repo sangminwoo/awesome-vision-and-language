@@ -33,8 +33,12 @@ A repository of vision and language papers.
 |     | VQA: Visual Question Answering              | 2015 ICCV  | [1505.00468](https://arxiv.org/abs/1505.00468) |  | [visualqa](https://visualqa.org/) |
 |     | Visual Storytelling | 2016 NAACL  | [1604.03968](https://arxiv.org/abs/1604.03968) | [ai-visual-storytelling-seq2seq](https://github.com/ai-visual-storytelling-seq2seq) | [VIST](http://visionandlanguage.net/VIST/) |
 |     | Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations | 2017 IJCV  | [1602.07332](https://arxiv.org/abs/1602.07332) | [visual_genome_python_driver](https://github.com/ranjaykrishna/visual_genome_python_driver) | [visualgenome](https://visualgenome.org/) |
+|     | CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning | 2017 CVPR | [1612.06890](https://arxiv.org/abs/1612.06890) | []() | []() |
 |     | AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions | 2018 CVPR | [1705.08421](https://arxiv.org/abs/1705.08421) |  | [AVA](http://thoth.inrialpes.fr/ava/) |
-|     | GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering | 2019 CVPR | [1902.09506](https://arxiv.org/abs/1902.09506) |     | [visualreasoning](visualreasoning.net)  | 
+|     | Embodied Question Answering | 2018 CVPR | [1711.11543](https://arxiv.org/abs/1711.11543) | []() | [embodiedqa](https://embodiedqa.org/) |
+|     | Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments | 2018 CVPR | [1711.07280](https://arxiv.org/abs/1711.07280) | []() | [bringmeaspoon](https://bringmeaspoon.org/) |
+|     | GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering | 2019 CVPR | [1902.09506](https://arxiv.org/abs/1902.09506) |     | [visualreasoning](visualreasoning.net)  |
+
 
 ## GAN
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
@@ -117,7 +121,8 @@ A repository of vision and language papers.
 ## Vision and Language Navigation
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
 | --- | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
-|     | Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments | 2018 CVPR | [1711.07280](https://arxiv.org/abs/1711.07280) | []() | []() |
+|     | Embodied Question Answering | 2018 CVPR | [1711.11543](https://arxiv.org/abs/1711.11543) | []() | [embodiedqa](https://embodiedqa.org/) |
+|     | Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments | 2018 CVPR | [1711.07280](https://arxiv.org/abs/1711.07280) | []() | [bringmeaspoon](https://bringmeaspoon.org/) |
 
 ## Visual Dialog
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
@@ -140,16 +145,22 @@ A repository of vision and language papers.
 ## Visual Reasoning
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
 | --- | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+|     | CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning | 2017 CVPR | [1612.06890](https://arxiv.org/abs/1612.06890) | []() | []() |
+|     | Inferring and Executing Programs for Visual Reasoning | 2017 ICCV | [1705.03633](https://arxiv.org/abs/1705.03633) | []() | []() |
 |     | LXMERT: Learning Cross-Modality Encoder Representations from Transformers | 2019 EMNLP | [1908.07490](https://arxiv.org/abs/1908.07490) | [lxmert](https://github.com/airsplay/lxmert) |  |
 |     | GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering | 2019 CVPR | [1902.09506](https://arxiv.org/abs/1902.09506) |     | [visualreasoning](visualreasoning.net)  |
+|     | Explainable and Explicit Visual Reasoning over Scene Graphs | 2019 CVPR | [1812.01855](https://arxiv.org/abs/1812.01855) | []() | []() |
+
 
 ## Visual Relationship Detection
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
 | --- | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 |     | Visual Relationship Detection with Language Priors | 2016 ECCV | [1608.00187](https://arxiv.org/abs/1608.00187) | [Visual-Relationship-Detection](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection) |  |
+|     | Visual Translation Embedding Network for Visual Relation Detection | 2017 CVPR | [1702.08319](https://arxiv.org/abs/1702.08319) | []() | []() |
 
 ## Visual Storytelling
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
 | --- | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 |     | Visual Storytelling | 2016 NAACL  | [1604.03968](https://arxiv.org/abs/1604.03968) | [visual_genome_python_driver](https://github.com/ranjaykrishna/visual_genome_python_driver) | [VIST](http://visionandlanguage.net/VIST/) |
 |     | No Metrics Are Perfect Adversarial Reward Learning for Visual Storytelling | 2018 ACL | [1804.09160](https://arxiv.org/abs/1804.09160) | [AREL](https://github.com/eric-xw/AREL) |  |
+|     | Show, Reward and Tell: Automatic Generation of Narrative Paragraph from Photo Stream by Adversarial Training | 2018 AAAI | []() | []() | []() |
