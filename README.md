@@ -52,9 +52,12 @@ A repository of vision and language papers.
 ## Image Captioning
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
 | --- | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+|     | Long-term Recurrent Convolutional Networks for Visual Recognition and Description | 2015 CVPR | [1411.4389](https://arxiv.org/abs/1411.4389) | []() | []() |
 |     | Deep Visual-Semantic Alignments for Generating Image Descriptions | 2015 CVPR | [1412.2306](https://arxiv.org/abs/1412.2306) |  |  |
 |     | Show and Tell A Neural Image Caption Generator | 2015 CVPR | [1411.4555](https://arxiv.org/abs/1411.4555) | [show_and_tell.tensorflow](https://github.com/jazzsaxmafia/show_and_tell.tensorflow) |  |
 |     | Show, Attend and Tell Neural Image Caption Generation with Visual Attention | 2015 ICML | [1502.03044](https://arxiv.org/abs/1502.03044) | [show-attend-and-tell](https://github.com/yunjey/show-attend-and-tell) |  |
+|     | From Captions to Visual Concepts and Back | 2015 CVPR | [1411.4952](https://arxiv.org/abs/1411.4952) | [visual-concepts](https://github.com/s-gupta/visual-concepts) | []() |
+|     | Image Captioning with Semantic Attention | 2016 CVPR | [1603.03925](https://arxiv.org/abs/1603.03925) | [semantic-attention](https://github.com/chapternewscu/image-captioning-with-semantic-attention) | []() |
 |     | A Hierarchical Approach for Generating Descriptive Image Paragraphs | 2017 CVPR | [1611.06607](https://arxiv.org/abs/1611.06607) | []() | []() |
 |     | Deep reinforcement learning-based image captioning with embedding reward | 2017 CVPR | [1704.03899](https://arxiv.org/abs/1704.03899) |  |  |
 |     | Semantic compositional networks for visual captioning | 2017 CVPR | [1611.08002](https://arxiv.org/abs/1611.08002) | []() | []() |
@@ -70,6 +73,8 @@ A repository of vision and language papers.
 ## Scene Graph
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
 | --- | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+|     | Image Retrieval Using Scene Graphs | 2015 CVPR | [7298990](https://ieeexplore.ieee.org/document/7298990) | []() | []() |
+|     | Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations | 2017 IJCV  | [1602.07332](https://arxiv.org/abs/1602.07332) | [visual_genome_python_driver](https://github.com/ranjaykrishna/visual_genome_python_driver) | [visualgenome](https://visualgenome.org/) |
 |     | Scene Graph Generation by Iterative Message Passing | 2017 CVPR | [1701.02426](https://arxiv.org/abs/1701.02426) | [scene-graph-TF-release](https://github.com/danfeiX/scene-graph-TF-release) |  |
 |     | Scene Graph Generation from Objects, Phrases and Region Captions | 2017 ICCV | [1707.09700](https://arxiv.org/abs/1707.09700) | [MSDN](https://github.com/yikang-li/MSDN) |  |
 |     | Neural Motifs: Scene Graph Parsing with Global Context | 2018 CVPR | [1711.06640](https://arxiv.org/abs/1711.06640) | [neural-motifs](https://github.com/rowanz/neural-motifs) |  |
@@ -96,10 +101,12 @@ A repository of vision and language papers.
 |     | MirrorGAN: Learning Text-to-image Generation by Redescription | 2019 CVPR | [1903.05854](https://arxiv.org/abs/1903.05854) |  |  |
 |     | DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis | 2019 CVPR | [1904.01310](https://arxiv.org/abs/1904.01310) |  |  |
 |     | Semantics Disentangling for Text-to-Image Generation | 2019 CVPR | [1904.01480](https://arxiv.org/abs/1904.01480) |  |  |
+|     | Tell, Draw, and Repeat: Generating and Modifying Images Based on Continual Linguistic Instruction | 2019 ICCV | [1811.09845](https://arxiv.org/abs/1811.09845) | []() | [GeNeVA](https://github.com/Maluuba/GeNeVA_datasets) |
 
 ## Video Captioning
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
 | --- | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+|     | Long-term Recurrent Convolutional Networks for Visual Recognition and Description | 2015 CVPR | [1411.4389](https://arxiv.org/abs/1411.4389) | []() | []() |
 |     | Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks | 2016 CVPR | [1510.07712](https://arxiv.org/abs/1510.07712) | []() | []() |
 |     | Attention-Based Multimodal Fusion for Video Description | 2017 CVPR | [1701.03126](https://arxiv.org/abs/1701.03126) | []() | []() |
 |     | Semantic compositional networks for visual captioning | 2017 CVPR | [1611.08002](https://arxiv.org/abs/1611.08002) | []() | []() |
@@ -111,6 +118,7 @@ A repository of vision and language papers.
 ## Video Question Answering
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
 | --- | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+|     | Movieqa: Understanding stories in movies through question-answering | 2016 CVPR | [1512.02902](https://arxiv.org/abs/1512.02902) | [MovieQA](https://github.com/makarandtapaswi/MovieQA_CVPR2016) | []() |
 |     | TVQA: Localized, Compositional Video Question Answering | 2018 EMNLP | [1809.01696](https://arxiv.org/abs/1809.01696) | [TVQA](https://github.com/jayleicn/TVQA) |  |
 
 ## Video Understanding
@@ -136,6 +144,10 @@ A repository of vision and language papers.
 | --- | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 |     | VQA: Visual Question Answering | 2015 ICCV | [1505.00468](https://arxiv.org/abs/1505.00468) |  | [visualqa](https://visualqa.org/) |
 |     | Hierarchical question-image co-attention for visual question answering | 2016 NIPS | [1606.00061](https://arxiv.org/abs/1606.00061) | [HieCoAttenVQA](https://github.com/jiasenlu/HieCoAttenVQA) |  |
+|     | Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding | 2016 EMNLP | [1606.01847](https://arxiv.org/abs/1606.01847) | [vqa-mcb](https://github.com/akirafukui/vqa-mcb) | []() |
+|     | Stacked Attention Networks for Image Question Answering | 2016 CVPR | [1511.02274](https://arxiv.org/abs/1511.02274) | [imageqa-san](https://github.com/zcyang/imageqa-san) | []() |
+|     | Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering | 2016 ECCV | [1511.05234](https://arxiv.org/abs/1511.05234) | [AAAA](https://github.com/VisionLearningGroup/Ask_Attend_and_Answer) | []() |
+|     | Dynamic Memory Networks for Visual and Textual Question Answering | 2016 ICML | [1603.01417](https://arxiv.org/abs/1603.01417) | [dmn-plus](https://github.com/vlgiitr/dmn-plus) | []() |
 |     | Learning to Reason: End-to-End Module Networks for Visual Question Answering | 2017 ICCV | [1704.05526](https://arxiv.org/abs/1704.05526) | []() | []() |
 |     | Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering | 2018 CVPR | [1707.07998](https://arxiv.org/abs/) | | |
 |     | Transfer Learning via Unsupervised Task Discovery for Visual Question Answering | 2019 CVPR | [1810.02358](https://arxiv.org/abs/1810.02358) | [VQA-Transfer-ExternalData](https://github.com/HyeonwooNoh/VQA-Transfer-ExternalData) |  |
@@ -157,6 +169,9 @@ A repository of vision and language papers.
 | --- | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 |     | Visual Relationship Detection with Language Priors | 2016 ECCV | [1608.00187](https://arxiv.org/abs/1608.00187) | [Visual-Relationship-Detection](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection) |  |
 |     | Visual Translation Embedding Network for Visual Relation Detection | 2017 CVPR | [1702.08319](https://arxiv.org/abs/1702.08319) | []() | []() |
+|     | Detecting Visual Relationships with Deep Relational Networks | 2017 CVPR | [1704.03114](https://arxiv.org/abs/1704.03114) | [drnet](https://github.com/doubledaibo/drnet_cvpr2017) | []() |
+|     | Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues | 2017 ICCV | [1611.06641](https://arxiv.org/abs/1611.06641) | [pl-clc](https://github.com/BryanPlummer/pl-clc) | []() |
+|     | Visual Relationship Detection with Internal and External Linguistic Knowledge Distillation | 2017 ICCV | [1707.09423](https://arxiv.org/abs/1707.09423) | []() | []() |
 
 ## Visual Storytelling
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
