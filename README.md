@@ -1,5 +1,5 @@
 # Vision-and-Language-Papers
-A repository of vision and language papers.
+This is a repository for awesome vision and language papers.
 
 **Table Of Contents**
 * [Survey](#Survey)
