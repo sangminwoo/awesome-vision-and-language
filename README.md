@@ -6,6 +6,7 @@ A repository of vision and language papers.
 * [Dataset](#Dataset)
 * [GAN](#GAN)
 * [Image Captioning](#Image-Captioning)
+* [Text Recognition(OCR)](#Text-Recognition(OCR))
 * [Scene Graph](#Scene-Graph)
 * [Scene Parsing](#Scene-Parsing)
 * [text2image](#text2image)
@@ -14,6 +15,7 @@ A repository of vision and language papers.
 * [Video Understanding](#Video-Understanding)
 * [Vision and Language Navigation](#Vision-and-Language-Navigation)
 * [Visual Dialog](#Visual-Dialog)
+* [Visual Grounding](#Visual-Grounding)
 * [Visual Question Answering(VQA)](#Visual-Question-Answering(VQA))
 * [Visual Reasoning](#Visual-Reasoning)
 * [Visual Relationship Detection](#Visual-Relationship-Detection)
@@ -39,7 +41,7 @@ A repository of vision and language papers.
 |     | Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments | 2018 CVPR | [1711.07280](https://arxiv.org/abs/1711.07280) | []() | [bringmeaspoon](https://bringmeaspoon.org/) |
 |     | GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering | 2019 CVPR | [1902.09506](https://arxiv.org/abs/1902.09506) |     | [visualreasoning](visualreasoning.net)  |
 |     | From Recognition to Cognition: Visual Commonsense Reasoning | 2019 CVPR | [1811.10830](https://arxiv.org/abs/1811.10830) | [r2c](https://github.com/rowanz/r2c/) | [VCR](https://visualcommonsense.com/) |
-
+|     | VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research | 2019 ICCV | [1904.03493](https://arxiv.org/abs/1904.03493) | []() | []() |
 
 ## GAN
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
@@ -69,7 +71,15 @@ A repository of vision and language papers.
 |     | Dense Relational Captioning Triple-Stream Networks for Relationship-Based Captioning | 2019 CVPR | [1903.05942](https://arxiv.org/abs/1903.05942) | []() | []() |
 |     | Describing like Humans on Diversity in Image Captioning | 2019 CVPR | [1903.12020](https://arxiv.org/abs/1903.12020) | []() | []() |
 |     | Good News, Everyone! Context driven entity-aware captioning for news images | 2019 CVPR | [1904.01475](https://arxiv.org/abs/1904.01475) | []() | []() |
+|     | Robust Change Captioning | 2019 ICCV | [1901.02527](https://arxiv.org/abs/1901.02527) | []() | []() |
+|     | Attention on Attention for Image Captioning | 2019 ICCV | [1908.06954](https://arxiv.org/abs/1908.06954) | []() | []() |
+|     |  |  | []() | []() | []() |
 
+## Text Recognition(OCR)
+| No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
+| --- | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+|     | Towards Unconstrained End-to-End Text Spotting | 2019 ICCV | [1908.09231](https://arxiv.org/abs/1908.09231) | []() | []() |
+|     | What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis | 2019 ICCV | [1904.01906](https://arxiv.org/abs/1904.01906) | [clovaai](https://github.com/clovaai/deep-text-recognition-benchmark) | []() |
 
 ## Scene Graph
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
@@ -84,6 +94,7 @@ A repository of vision and language papers.
 |     | Image Generation from Scene Graphs | 2018 CVPR | [1804.01622](https://arxiv.org/abs/1804.01622) | [sg2im](https://github.com/google/sg2im) |  |
 |  | Graph R-CNN for Scene Graph Generation | 2018 ECCV | [1808.00191](https://arxiv.org/abs/1808.00191) | [graph-rcnn.pytorch](https://github.com/jwyang/graph-rcnn.pytorch) |  |
 |     | Scene Graph Generation with External Knowledge and Image Reconstruction | 2019 CVPR | [1904.00560](https://arxiv.org/abs/1904.00560) |  |  |
+|     | Counterfactual Critic Multi-Agent Training for Scene Graph Generation | 2019 ICCV | [1812.02347](https://arxiv.org/abs/1812.02347) | []() | []() |
 
 ## Scene Parsing
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
@@ -126,6 +137,7 @@ A repository of vision and language papers.
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
 | --- | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 |     | TSM: Temporal Shift Module for Efficient Video Understanding | 2019 ICCV | [1811.08383](https://arxiv.org/abs/1811.08383) | [temporal-shift-module](https://github.com/mit-han-lab/temporal-shift-module) |  |
+|     | A Graph-Based Framework to Bridge Movies and Synopses | 2019 ICCV | [1910.11009](https://arxiv.org/abs/1910.11009) | []() | []() |
 
 ## Vision and Language Navigation
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
@@ -139,6 +151,14 @@ A repository of vision and language papers.
 |     | Visual Dialog | 2017 CVPR | [1611.08669](https://arxiv.org/abs/1611.08669) | [visdial](https://github.com/batra-mlp-lab/visdial) | [visualdialog](https://visualdialog.org/) |
 |     | Two Can Play This Game: Visual Dialog With Discriminative Question Generation and Answering | 2018 CVPR | [1803.11186](https://arxiv.org/abs/1803.11186) |  |  |
 |     |  |  | []() | []() | []() |
+
+## Visual Grounding(Phrase Localization)
+| No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
+| --- | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+|     | Phrase Localization Without Paired Training Examples | 2019 ICCV | [1908.07553](https://arxiv.org/abs/1908.07553) | []() | []() |
+|     | Learning to Assemble Neural Module Tree Networks for Visual Grounding | 2019 ICCV | [1812.03299](https://arxiv.org/abs/1812.03299) | []() | []() |
+|     | A Fast and Accurate One-Stage Approach to Visual Grounding | 2019 ICCV | [1908.06354](https://arxiv.org/abs/1908.06354) | []() | []() |
+|     | Zero-Shot Grounding of Objects from Natural Language Queries | 2019 ICCV | [1908.07129](https://arxiv.org/abs/1908.07129) | [zsgnet](https://github.com/TheShadow29/zsgnet-pytorch) | []() |
 
 ## Visual Question Answering(VQA)
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
@@ -154,6 +174,7 @@ A repository of vision and language papers.
 |     | Transfer Learning via Unsupervised Task Discovery for Visual Question Answering | 2019 CVPR | [1810.02358](https://arxiv.org/abs/1810.02358) | [VQA-Transfer-ExternalData](https://github.com/HyeonwooNoh/VQA-Transfer-ExternalData) |  |
 |     | GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering | 2019 CVPR | [1902.09506](https://arxiv.org/abs/1902.09506) |     | [visualreasoning](visualreasoning.net)  |
 |     | Towards VQA Models That Can Read | 2019 CVPR | [1904.08920](https://arxiv.org/abs/1904.08920) |  |  |
+|     | From Strings to Things: Knowledge-enabled VQA Model that can Read and Reason | 2019 ICCV | [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Singh_From_Strings_to_Things_Knowledge-Enabled_VQA_Model_That_Can_Read_ICCV_2019_paper.pdf) | []() | []() |
 
 ## Visual Reasoning
 | No. | Title                                       | Conference | paper                                     | code                                        | remarks   |
@@ -164,6 +185,8 @@ A repository of vision and language papers.
 |     | GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering | 2019 CVPR | [1902.09506](https://arxiv.org/abs/1902.09506) |     | [visualreasoning](visualreasoning.net)  |
 |     | Explainable and Explicit Visual Reasoning over Scene Graphs | 2019 CVPR | [1812.01855](https://arxiv.org/abs/1812.01855) | []() | []() |
 |     | From Recognition to Cognition: Visual Commonsense Reasoning | 2019 CVPR | [1811.10830](https://arxiv.org/abs/1811.10830) | [r2c](https://github.com/rowanz/r2c/) | [VCR](https://visualcommonsense.com/) |
+|     | Dynamic Graph Attention for Referring Expression Comprehension | 2019 ICCV | [1909.08164](https://arxiv.org/abs/1909.08164) | []() | []() |
+|     | Visual Semantic Reasoning for Image-Text Matching | 2019 ICCV | [1909.02701](https://arxiv.org/abs/1909.02701) | [VSRN](https://github.com/KunpengLi1994/VSRN) | []() |
 
 
 ## Visual Relationship Detection
