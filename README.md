@@ -4,11 +4,10 @@ A repository of vision and language papers.
 **Table Of Contents**
 * [Survey](#Survey)
 * [Dataset](#Dataset)
-* [GAN](#GAN)
 * [Image Captioning](#Image-Captioning)
+* [Image Retrieval](#Image-Retrieval)
 * [Text Recognition(OCR)](#Text-Recognition(OCR))
 * [Scene Graph](#Scene-Graph)
-* [Scene Parsing](#Scene-Parsing)
 * [text2image](#text2image)
 * [Video Captioning](#Video-Captioning)
 * [Video Question Answering](#Video-Question-Answering)
@@ -43,15 +42,6 @@ A repository of vision and language papers.
 | From Recognition to Cognition: Visual Commonsense Reasoning | 2019 CVPR | [1811.10830](https://arxiv.org/abs/1811.10830) | [r2c](https://github.com/rowanz/r2c/) | [VCR](https://visualcommonsense.com/) |
 | VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research | 2019 ICCV | [1904.03493](https://arxiv.org/abs/1904.03493) | []() | []() |
 
-## GAN
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
-| ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
-| Generative Adversarial Networks | 2014 NIPS | [1406.2661](https://arxiv.org/abs/1406.2661) |  |  |
-| Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks | 2016 ICLR | [1511.06434](https://arxiv.org/abs/1511.06434) | [dcgan_code](https://github.com/Newmu/dcgan_code) |  |Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis
-| MaskGAN: Better Text Generation via Filling in the______ | 2018 ICLR | [1801.07736](https://arxiv.org/abs/1801.07736) | [maskgan](https://github.com/tensorflow/models/tree/master/research/maskgan) |  |
-| Image Generation from Scene Graphs | 2018 CVPR | [1804.01622](https://arxiv.org/abs/1804.01622) | [sg2im](https://github.com/google/sg2im) |  |
-
-
 ## Image Captioning
 | Title                                       | Conference | paper                                     | code                                        | remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
@@ -75,6 +65,12 @@ A repository of vision and language papers.
 | Attention on Attention for Image Captioning | 2019 ICCV | [1908.06954](https://arxiv.org/abs/1908.06954) | []() | []() |
 |  |  | []() | []() | []() |
 
+## Image Retrieval
+| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Visual Word2Vec (vis-w2v) Learning Visually Grounded Word Embeddings Using Abstract Scenes | 2016 CVPR | [1511.07067](https://arxiv.org/abs/1511.07067) | [VisualWord2Vec](https://github.com/satwikkottur/VisualWord2Vec) | []() |
+| Composing Text and Image for Image Retrieval - An Empirical Odyssey | 2019 CVPR | [1812.07119](https://arxiv.org/abs/1812.07119) | [tirg](https://github.com/google/tirg) | []() |
+
 ## Text Recognition(OCR)
 | Title                                       | Conference | paper                                     | code                                        | remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
@@ -92,15 +88,10 @@ A repository of vision and language papers.
 | Generating Triples with Adversarial Networks for Scene Graph Construction | 2018 AAAI | [1802.02598](https://arxiv.org/abs/1802.02598) |  |  |
 | LinkNet: Relational Embedding for Scene Graph | 2018 NIPS | [1811.06410](https://arxiv.org/abs/1811.06410) |  |  |
 | Image Generation from Scene Graphs | 2018 CVPR | [1804.01622](https://arxiv.org/abs/1804.01622) | [sg2im](https://github.com/google/sg2im) |  |
-|  | Graph R-CNN for Scene Graph Generation | 2018 ECCV | [1808.00191](https://arxiv.org/abs/1808.00191) | [graph-rcnn.pytorch](https://github.com/jwyang/graph-rcnn.pytorch) |  |
+| Graph R-CNN for Scene Graph Generation | 2018 ECCV | [1808.00191](https://arxiv.org/abs/1808.00191) | [graph-rcnn.pytorch](https://github.com/jwyang/graph-rcnn.pytorch) |  |
 | Scene Graph Generation with External Knowledge and Image Reconstruction | 2019 CVPR | [1904.00560](https://arxiv.org/abs/1904.00560) |  |  |
 | Counterfactual Critic Multi-Agent Training for Scene Graph Generation | 2019 ICCV | [1812.02347](https://arxiv.org/abs/1812.02347) | []() | []() |
-
-## Scene Parsing
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
-| ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
-| Pyramid Scene Parsing Network | 2017 CVPR | [1612.01105](https://arxiv.org/abs/1612.01105) | []() | []() |
-| Unified Perceptual Parsing for Scene Understanding | 2018 ECCV | [1807.10221](https://arxiv.org/abs/1807.10221) | []() | []() |
+| Specifying Object Attributes and Relations in Interactive Scene Generation | 2019 ICCV | [1909.05379](https://arxiv.org/abs/1909.05379) | [scene_generation](https://github.com/ashual/scene_generation) | []() |
 
 ## text2image
 | Title                                       | Conference | paper                                     | code                                        | remarks   |
@@ -114,6 +105,7 @@ A repository of vision and language papers.
 | DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis | 2019 CVPR | [1904.01310](https://arxiv.org/abs/1904.01310) |  |  |
 | Semantics Disentangling for Text-to-Image Generation | 2019 CVPR | [1904.01480](https://arxiv.org/abs/1904.01480) |  |  |
 | Tell, Draw, and Repeat: Generating and Modifying Images Based on Continual Linguistic Instruction | 2019 ICCV | [1811.09845](https://arxiv.org/abs/1811.09845) | []() | [GeNeVA](https://github.com/Maluuba/GeNeVA_datasets) |
+| Specifying Object Attributes and Relations in Interactive Scene Generation | 2019 ICCV | [1909.05379](https://arxiv.org/abs/1909.05379) | [scene_generation](https://github.com/ashual/scene_generation) | []() |
 
 ## Video Captioning
 | Title                                       | Conference | paper                                     | code                                        | remarks   |
@@ -152,13 +144,15 @@ A repository of vision and language papers.
 | Two Can Play This Game: Visual Dialog With Discriminative Question Generation and Answering | 2018 CVPR | [1803.11186](https://arxiv.org/abs/1803.11186) |  |  |
 |  |  | []() | []() | []() |
 
-## Visual Grounding(Phrase Localization)
+## Visual Grounding
 | Title                                       | Conference | paper                                     | code                                        | remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| Modeling Relationships in Referential Expressions with Compositional Modular Networks | 2017 CVPR | [1611.09978](https://arxiv.org/abs/1611.09978) | [cmn](https://github.com/ronghanghu/cmn) | []() |
 | Phrase Localization Without Paired Training Examples | 2019 ICCV | [1908.07553](https://arxiv.org/abs/1908.07553) | []() | []() |
 | Learning to Assemble Neural Module Tree Networks for Visual Grounding | 2019 ICCV | [1812.03299](https://arxiv.org/abs/1812.03299) | []() | []() |
 | A Fast and Accurate One-Stage Approach to Visual Grounding | 2019 ICCV | [1908.06354](https://arxiv.org/abs/1908.06354) | []() | []() |
 | Zero-Shot Grounding of Objects from Natural Language Queries | 2019 ICCV | [1908.07129](https://arxiv.org/abs/1908.07129) | [zsgnet](https://github.com/TheShadow29/zsgnet-pytorch) | []() |
+
 
 ## Visual Question Answering(VQA)
 | Title                                       | Conference | paper                                     | code                                        | remarks   |
@@ -169,8 +163,13 @@ A repository of vision and language papers.
 | Stacked Attention Networks for Image Question Answering | 2016 CVPR | [1511.02274](https://arxiv.org/abs/1511.02274) | [imageqa-san](https://github.com/zcyang/imageqa-san) | []() |
 | Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering | 2016 ECCV | [1511.05234](https://arxiv.org/abs/1511.05234) | [AAAA](https://github.com/VisionLearningGroup/Ask_Attend_and_Answer) | []() |
 | Dynamic Memory Networks for Visual and Textual Question Answering | 2016 ICML | [1603.01417](https://arxiv.org/abs/1603.01417) | [dmn-plus](https://github.com/vlgiitr/dmn-plus) | []() |
+| Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding | 2016 EMNLP | [1606.01847](https://arxiv.org/abs/1606.01847) | [vqa-mcb](https://github.com/akirafukui/vqa-mcb) | []() |
+| Multimodal Residual Learning for Visual QA | 2016 NIPS | [1606.01455](https://arxiv.org/abs/1606.01455) | [nips-mrn-vqa](https://github.com/jnhwkim/nips-mrn-vqa) | []() |
+| Graph-Structured Representations for Visual Question Answering | 2017 CVPR | [1609.05600](https://arxiv.org/abs/1609.05600) | []() | []() |
+| Making the V in VQA Matter Elevating the Role of Image Understanding in Visual Question Answering | 2017 CVPR | [1612.00837](https://arxiv.org/abs/1612.00837) | []() | []() |
 | Learning to Reason: End-to-End Module Networks for Visual Question Answering | 2017 ICCV | [1704.05526](https://arxiv.org/abs/1704.05526) | []() | []() |
 | Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering | 2018 CVPR | [1707.07998](https://arxiv.org/abs/) | | |
+| Tips and Tricks for Visual Question Answering Learnings from the 2017 Challenge | 2018 CVPR | [1708.02711](https://arxiv.org/abs/1708.02711) | [vqa-winner](https://github.com/markdtw/vqa-winner-cvprw-2017) | []() |
 | Transfer Learning via Unsupervised Task Discovery for Visual Question Answering | 2019 CVPR | [1810.02358](https://arxiv.org/abs/1810.02358) | [VQA-Transfer-ExternalData](https://github.com/HyeonwooNoh/VQA-Transfer-ExternalData) |  |
 | GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering | 2019 CVPR | [1902.09506](https://arxiv.org/abs/1902.09506) | [visualreasoning](visualreasoning.net)  |
 | Towards VQA Models That Can Read | 2019 CVPR | [1904.08920](https://arxiv.org/abs/1904.08920) |  |  |
@@ -197,6 +196,7 @@ A repository of vision and language papers.
 | Detecting Visual Relationships with Deep Relational Networks | 2017 CVPR | [1704.03114](https://arxiv.org/abs/1704.03114) | [drnet](https://github.com/doubledaibo/drnet_cvpr2017) | []() |
 | Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues | 2017 ICCV | [1611.06641](https://arxiv.org/abs/1611.06641) | [pl-clc](https://github.com/BryanPlummer/pl-clc) | []() |
 | Visual Relationship Detection with Internal and External Linguistic Knowledge Distillation | 2017 ICCV | [1707.09423](https://arxiv.org/abs/1707.09423) | []() | []() |
+| Referring Relationships | 2018 CVPR | [1803.10362](https://arxiv.org/abs/1803.10362) | [ReferringRelationships](https://github.com/StanfordVL/ReferringRelationships) | []() |
 
 ## Visual Storytelling
 | Title                                       | Conference | paper                                     | code                                        | remarks   |
