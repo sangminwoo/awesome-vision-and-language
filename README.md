@@ -51,6 +51,8 @@ This is a repository for awesome vision and language papers.
 | Show, Attend and Tell Neural Image Caption Generation with Visual Attention | 2015 ICML | [1502.03044](https://arxiv.org/abs/1502.03044) | [show-attend-and-tell](https://github.com/yunjey/show-attend-and-tell) |  |
 | From Captions to Visual Concepts and Back | 2015 CVPR | [1411.4952](https://arxiv.org/abs/1411.4952) | [visual-concepts](https://github.com/s-gupta/visual-concepts) | []() |
 | Image Captioning with Semantic Attention | 2016 CVPR | [1603.03925](https://arxiv.org/abs/1603.03925) | [semantic-attention](https://github.com/chapternewscu/image-captioning-with-semantic-attention) | []() |
+| Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning | 2017 CVPR | [1612.01887](https://arxiv.org/abs/1612.01887) | [AdaptiveAttention](https://github.com/jiasenlu/AdaptiveAttention) | []() |
+| Self-critical Sequence Training for Image Captioning | 2017 CVPR | [1612.00563](https://arxiv.org/abs/1612.00563) | []() | []() |
 | A Hierarchical Approach for Generating Descriptive Image Paragraphs | 2017 CVPR | [1611.06607](https://arxiv.org/abs/1611.06607) | []() | []() |
 | Deep reinforcement learning-based image captioning with embedding reward | 2017 CVPR | [1704.03899](https://arxiv.org/abs/1704.03899) |  |  |
 | Semantic compositional networks for visual captioning | 2017 CVPR | [1611.08002](https://arxiv.org/abs/1611.08002) | []() | []() |
@@ -192,11 +194,14 @@ This is a repository for awesome vision and language papers.
 | Title                                       | Conference | paper                                     | code                                        | remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Visual Relationship Detection with Language Priors | 2016 ECCV | [1608.00187](https://arxiv.org/abs/1608.00187) | [Visual-Relationship-Detection](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection) |  |
+| ViP-CNN: Visual Phrase Guided Convolutional Neural Network | 2017 CVPR | [1702.07191](https://arxiv.org/abs/1702.07191) | []() | []() |
 | Visual Translation Embedding Network for Visual Relation Detection | 2017 CVPR | [1702.08319](https://arxiv.org/abs/1702.08319) | []() | []() |
 | Detecting Visual Relationships with Deep Relational Networks | 2017 CVPR | [1704.03114](https://arxiv.org/abs/1704.03114) | [drnet](https://github.com/doubledaibo/drnet_cvpr2017) | []() |
 | Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues | 2017 ICCV | [1611.06641](https://arxiv.org/abs/1611.06641) | [pl-clc](https://github.com/BryanPlummer/pl-clc) | []() |
 | Visual Relationship Detection with Internal and External Linguistic Knowledge Distillation | 2017 ICCV | [1707.09423](https://arxiv.org/abs/1707.09423) | []() | []() |
 | Referring Relationships | 2018 CVPR | [1803.10362](https://arxiv.org/abs/1803.10362) | [ReferringRelationships](https://github.com/StanfordVL/ReferringRelationships) | []() |
+| Zoom-Net: Mining Deep Feature Interactions for Visual Relationship Recognition | 2018 ECCV | [1807.04979](https://arxiv.org/abs/1807.04979) | [ZoomNet](https://github.com/gjyin91/ZoomNet) | []() |
+| Shuffle-Then-Assemble: Learning Object-Agnostic Visual Relationship Features | 2018 ECCV | [1808.00171](https://arxiv.org/abs/1808.00171) | [vrd](https://github.com/yangxuntu/vrd) | []() |
 
 ## Visual Storytelling
 | Title                                       | Conference | paper                                     | code                                        | remarks   |
