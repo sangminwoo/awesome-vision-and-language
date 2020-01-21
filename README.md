@@ -211,6 +211,7 @@ This is a repository for awesome vision and language papers.
 | Referring Relationships | 2018 CVPR | [1803.10362](https://arxiv.org/abs/1803.10362) | [ReferringRelationships](https://github.com/StanfordVL/ReferringRelationships) | []() |
 | Zoom-Net: Mining Deep Feature Interactions for Visual Relationship Recognition | 2018 ECCV | [1807.04979](https://arxiv.org/abs/1807.04979) | [ZoomNet](https://github.com/gjyin91/ZoomNet) | []() |
 | Shuffle-Then-Assemble: Learning Object-Agnostic Visual Relationship Features | 2018 ECCV | [1808.00171](https://arxiv.org/abs/1808.00171) | [vrd](https://github.com/yangxuntu/vrd) | []() |
+| Leveraging Auxiliary Text for Deep Recognition of Unseen Visual Relationships | 2020 ICLR | [1910.12324](https://arxiv.org/abs/1910.12324) | []() | []() |
 |  |  | []() | []() | []() |
 
 ## Visual Storytelling
