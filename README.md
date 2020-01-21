@@ -195,7 +195,8 @@ This is a repository for awesome vision and language papers.
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Visual Relationship Detection with Language Priors | 2016 ECCV | [1608.00187](https://arxiv.org/abs/1608.00187) | [Visual-Relationship-Detection](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection) |  |
 | ViP-CNN: Visual Phrase Guided Convolutional Neural Network | 2017 CVPR | [1702.07191](https://arxiv.org/abs/1702.07191) | []() | []() |
-| Visual Translation Embedding Network for Visual Relation Detection | 2017 CVPR | [1702.08319](https://arxiv.org/abs/1702.08319) | []() | []() |
+| Visual Translation Embedding Network for Visual Relation Detection | 2017 CVPR | [1702.08319](https://arxiv.org/abs/1702.08319) | [drnet](https://github.com/doubledaibo/drnet_cvpr2017) | []() |
+| Deep Variation-structured Reinforcement Learning for Visual Relationship and Attribute Detection | 2017 CVPR | [1703.03054](https://arxiv.org/abs/1703.03054) | [DeepVariationRL](https://github.com/nexusapoorvacus/DeepVariationStructuredRL) | []() |
 | Detecting Visual Relationships with Deep Relational Networks | 2017 CVPR | [1704.03114](https://arxiv.org/abs/1704.03114) | [drnet](https://github.com/doubledaibo/drnet_cvpr2017) | []() |
 | Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues | 2017 ICCV | [1611.06641](https://arxiv.org/abs/1611.06641) | [pl-clc](https://github.com/BryanPlummer/pl-clc) | []() |
 | Visual Relationship Detection with Internal and External Linguistic Knowledge Distillation | 2017 ICCV | [1707.09423](https://arxiv.org/abs/1707.09423) | []() | []() |
