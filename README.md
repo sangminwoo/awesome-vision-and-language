@@ -223,7 +223,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 |  |  | []() | []() | []() |
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/sangminwoo/awesome-vision-and-language-papers/pulls) or email (shmwoo9395@gmail.com) to add links.
+Please feel free to send me [pull requests](https://github.com/sangminwoo/awesome-vision-and-language/pulls) or email (shmwoo9395@gmail.com) to add links.
 
 ## Licenses
 License
