@@ -21,7 +21,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 * [Visual Storytelling](#visual-storytelling)
 
 ## Survey
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | A Comprehensive Survey of Deep Learning for Image Captioning |  | [1810.04020](https://arxiv.org/abs/1810.04020) | []() | []() |
 | Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods |  | [1907.09358](https://arxiv.org/abs/1907.09358) | []() | []() |
@@ -29,7 +29,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 
 ## Dataset
 
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | VQA: Visual Question Answering              | 2015 ICCV  | [1505.00468](https://arxiv.org/abs/1505.00468) |  | [visualqa](https://visualqa.org/) |
 | Visual Storytelling | 2016 NAACL  | [1604.03968](https://arxiv.org/abs/1604.03968) | [ai-visual-storytelling-seq2seq](https://github.com/ai-visual-storytelling-seq2seq) | [VIST](http://visionandlanguage.net/VIST/) |
@@ -44,7 +44,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 |  |  | []() | []() | []() |
 
 ## Image Captioning
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Long-term Recurrent Convolutional Networks for Visual Recognition and Description | 2015 CVPR | [1411.4389](https://arxiv.org/abs/1411.4389) | []() | []() |
 | Deep Visual-Semantic Alignments for Generating Image Descriptions | 2015 CVPR | [1412.2306](https://arxiv.org/abs/1412.2306) |  |  |
@@ -69,21 +69,21 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 |  |  | []() | []() | []() |
 
 ## Image Retrieval
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Visual Word2Vec (vis-w2v) Learning Visually Grounded Word Embeddings Using Abstract Scenes | 2016 CVPR | [1511.07067](https://arxiv.org/abs/1511.07067) | [VisualWord2Vec](https://github.com/satwikkottur/VisualWord2Vec) | []() |
 | Composing Text and Image for Image Retrieval - An Empirical Odyssey | 2019 CVPR | [1812.07119](https://arxiv.org/abs/1812.07119) | [tirg](https://github.com/google/tirg) | []() |
 |  |  | []() | []() | []() |
 
 ## Text Recognition
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Towards Unconstrained End-to-End Text Spotting | 2019 ICCV | [1908.09231](https://arxiv.org/abs/1908.09231) | []() | []() |
 | What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis | 2019 ICCV | [1904.01906](https://arxiv.org/abs/1904.01906) | [clovaai](https://github.com/clovaai/deep-text-recognition-benchmark) | []() |
 |  |  | []() | []() | []() |
 
 ## Scene Graph
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Image Retrieval Using Scene Graphs | 2015 CVPR | [7298990](https://ieeexplore.ieee.org/document/7298990) | []() | []() |
 | Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations | 2017 IJCV  | [1602.07332](https://arxiv.org/abs/1602.07332) | [visual_genome_python_driver](https://github.com/ranjaykrishna/visual_genome_python_driver) | [visualgenome](https://visualgenome.org/) |
@@ -100,7 +100,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 |  |  | []() | []() | []() |
 
 ## text2image
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Generative Adversarial Text to Image Synthesis | 2016 ICML | [1605.05396](https://arxiv.org/abs/1605.05396) | [icml2016](https://github.com/reedscot/icml2016) |  |
 | StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks | 2017 ICCV | [1612.03242](https://arxiv.org/abs/1612.03242) | [StackGAN](https://github.com/hanzhanggit/StackGAN) |  |
@@ -115,7 +115,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 |  |  | []() | []() | []() |
 
 ## Video Captioning
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Long-term Recurrent Convolutional Networks for Visual Recognition and Description | 2015 CVPR | [1411.4389](https://arxiv.org/abs/1411.4389) | []() | []() |
 | Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks | 2016 CVPR | [1510.07712](https://arxiv.org/abs/1510.07712) | []() | []() |
@@ -127,34 +127,34 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 |  |  | []() | []() | []() |
 
 ## Video Question Answering
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Movieqa: Understanding stories in movies through question-answering | 2016 CVPR | [1512.02902](https://arxiv.org/abs/1512.02902) | [MovieQA](https://github.com/makarandtapaswi/MovieQA_CVPR2016) | []() |
 | TVQA: Localized, Compositional Video Question Answering | 2018 EMNLP | [1809.01696](https://arxiv.org/abs/1809.01696) | [TVQA](https://github.com/jayleicn/TVQA) |  |
 
 ## Video Understanding
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | TSM: Temporal Shift Module for Efficient Video Understanding | 2019 ICCV | [1811.08383](https://arxiv.org/abs/1811.08383) | [temporal-shift-module](https://github.com/mit-han-lab/temporal-shift-module) |  |
 | A Graph-Based Framework to Bridge Movies and Synopses | 2019 ICCV | [1910.11009](https://arxiv.org/abs/1910.11009) | []() | []() |
 |  |  | []() | []() | []() |
 
 ## Vision and Language Navigation
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Embodied Question Answering | 2018 CVPR | [1711.11543](https://arxiv.org/abs/1711.11543) | []() | [embodiedqa](https://embodiedqa.org/) |
 | Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments | 2018 CVPR | [1711.07280](https://arxiv.org/abs/1711.07280) | []() | [bringmeaspoon](https://bringmeaspoon.org/) |
 |  |  | []() | []() | []() |
 
 ## Visual Dialog
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Visual Dialog | 2017 CVPR | [1611.08669](https://arxiv.org/abs/1611.08669) | [visdial](https://github.com/batra-mlp-lab/visdial) | [visualdialog](https://visualdialog.org/) |
 | Two Can Play This Game: Visual Dialog With Discriminative Question Generation and Answering | 2018 CVPR | [1803.11186](https://arxiv.org/abs/1803.11186) |  |  |
 |  |  | []() | []() | []() |
 
 ## Visual Grounding
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Modeling Relationships in Referential Expressions with Compositional Modular Networks | 2017 CVPR | [1611.09978](https://arxiv.org/abs/1611.09978) | [cmn](https://github.com/ronghanghu/cmn) | []() |
 | Phrase Localization Without Paired Training Examples | 2019 ICCV | [1908.07553](https://arxiv.org/abs/1908.07553) | []() | []() |
@@ -164,7 +164,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 |  |  | []() | []() | []() |
 
 ## Visual Question Answering
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | VQA: Visual Question Answering | 2015 ICCV | [1505.00468](https://arxiv.org/abs/1505.00468) |  | [visualqa](https://visualqa.org/) |
 | Hierarchical question-image co-attention for visual question answering | 2016 NIPS | [1606.00061](https://arxiv.org/abs/1606.00061) | [HieCoAttenVQA](https://github.com/jiasenlu/HieCoAttenVQA) |  |
@@ -186,7 +186,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 |  |  | []() | []() | []() |
 
 ## Visual Reasoning
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning | 2017 CVPR | [1612.06890](https://arxiv.org/abs/1612.06890) | []() | []() |
 | Inferring and Executing Programs for Visual Reasoning | 2017 ICCV | [1705.03633](https://arxiv.org/abs/1705.03633) | []() | []() |
@@ -199,7 +199,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 |  |  | []() | []() | []() |
 
 ## Visual Relationship Detection
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Visual Relationship Detection with Language Priors | 2016 ECCV | [1608.00187](https://arxiv.org/abs/1608.00187) | [Visual-Relationship-Detection](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection) |  |
 | ViP-CNN: Visual Phrase Guided Convolutional Neural Network | 2017 CVPR | [1702.07191](https://arxiv.org/abs/1702.07191) | []() | []() |
@@ -215,7 +215,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 |  |  | []() | []() | []() |
 
 ## Visual Storytelling
-| Title                                       | Conference | paper                                     | code                                        | remarks   |
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Visual Storytelling | 2016 NAACL  | [1604.03968](https://arxiv.org/abs/1604.03968) | [visual_genome_python_driver](https://github.com/ranjaykrishna/visual_genome_python_driver) | [VIST](http://visionandlanguage.net/VIST/) |
 | No Metrics Are Perfect Adversarial Reward Learning for Visual Storytelling | 2018 ACL | [1804.09160](https://arxiv.org/abs/1804.09160) | [AREL](https://github.com/eric-xw/AREL) |  |
