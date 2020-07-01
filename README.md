@@ -1,24 +1,27 @@
-# Vision-and-Language-Papers
+# 
 This is a repository for awesome vision and language papers.
 
+# Awesome Vision-and-Language: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
+
 **Table Of Contents**
-* [Survey](#Survey)
-* [Dataset](#Dataset)
-* [Image Captioning](#Image-Captioning)
-* [Image Retrieval](#Image-Retrieval)
-* [Text Recognition(OCR)](#Text-Recognition(OCR))
-* [Scene Graph](#Scene-Graph)
+* [Survey](#survey)
+* [Dataset](#dataset)
+* [Image Captioning](#image-captioning)
+* [Image Retrieval](#image-retrieval)
+* [Text Recognition (OCR)](#text-recognition)
+* [Scene Graph](#scene-graph)
 * [text2image](#text2image)
-* [Video Captioning](#Video-Captioning)
-* [Video Question Answering](#Video-Question-Answering)
-* [Video Understanding](#Video-Understanding)
-* [Vision and Language Navigation](#Vision-and-Language-Navigation)
-* [Visual Dialog](#Visual-Dialog)
-* [Visual Grounding](#Visual-Grounding)
-* [Visual Question Answering(VQA)](#Visual-Question-Answering(VQA))
-* [Visual Reasoning](#Visual-Reasoning)
-* [Visual Relationship Detection](#Visual-Relationship-Detection)
-* [Visual Storytelling](#Visual-Storytelling)
+* [Video Captioning](#video-captioning)
+* [Video Question Answering](#video-question-answering)
+* [Video Understanding](#video-understanding)
+* [Vision and Language Navigation](#vision-and-language-navigation)
+* [Visual Dialog](#visual-dialog)
+* [Visual Grounding](#visual-grounding)
+* [Visual Question Answering (VQA)](#visual-question-answering)
+* [Visual Reasoning](#visual-reasoning)
+* [Visual Relationship Detection](#visual-relationship-detection)
+* [Visual Storytelling](#visual-storytelling)
 
 ## Survey
 | Title                                       | Conference | paper                                     | code                                        | remarks   |
@@ -75,7 +78,7 @@ This is a repository for awesome vision and language papers.
 | Composing Text and Image for Image Retrieval - An Empirical Odyssey | 2019 CVPR | [1812.07119](https://arxiv.org/abs/1812.07119) | [tirg](https://github.com/google/tirg) | []() |
 |  |  | []() | []() | []() |
 
-## Text Recognition(OCR)
+## Text Recognition
 | Title                                       | Conference | paper                                     | code                                        | remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Towards Unconstrained End-to-End Text Spotting | 2019 ICCV | [1908.09231](https://arxiv.org/abs/1908.09231) | []() | []() |
@@ -163,7 +166,7 @@ This is a repository for awesome vision and language papers.
 | Zero-Shot Grounding of Objects from Natural Language Queries | 2019 ICCV | [1908.07129](https://arxiv.org/abs/1908.07129) | [zsgnet](https://github.com/TheShadow29/zsgnet-pytorch) | []() |
 |  |  | []() | []() | []() |
 
-## Visual Question Answering(VQA)
+## Visual Question Answering
 | Title                                       | Conference | paper                                     | code                                        | remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | VQA: Visual Question Answering | 2015 ICCV | [1505.00468](https://arxiv.org/abs/1505.00468) |  | [visualqa](https://visualqa.org/) |
@@ -221,3 +224,13 @@ This is a repository for awesome vision and language papers.
 | No Metrics Are Perfect Adversarial Reward Learning for Visual Storytelling | 2018 ACL | [1804.09160](https://arxiv.org/abs/1804.09160) | [AREL](https://github.com/eric-xw/AREL) |  |
 | Show, Reward and Tell: Automatic Generation of Narrative Paragraph from Photo Stream by Adversarial Training | 2018 AAAI | []() | []() | []() |
 |  |  | []() | []() | []() |
+
+## Contributing
+Please feel free to send me [pull requests](https://github.com/sangminwoo/awesome-vision-and-language-papers/pulls) or email (shmwoo9395@gmail.com) to add links.
+
+## Licenses
+License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sangmin Woo](https://github.com/sangminwoo) has waived all copyright and related or neighboring rights to this work.
