@@ -13,6 +13,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 * [Video Question Answering](#video-question-answering)
 * [Video Understanding](#video-understanding)
 * [Vision and Language Navigation](#vision-and-language-navigation)
+* [Vision and Language Pretraining](#vision-and-language-pretraining)
 * [Visual Dialog](#visual-dialog)
 * [Visual Grounding](#visual-grounding)
 * [Visual Question Answering (VQA)](#visual-question-answering)
@@ -25,6 +26,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | A Comprehensive Survey of Deep Learning for Image Captioning |  | [1810.04020](https://arxiv.org/abs/1810.04020) | []() | []() |
 | Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods |  | [1907.09358](https://arxiv.org/abs/1907.09358) | []() | []() |
+| A Survey of Scene Graph Generation and Application |  | [Scene-Graph-Survey](https://www.xiaojun.ai/papers/Scene-Graph-Survey.pdf) | []() | []() |
 |  |  | []() | []() | []() |
 
 ## Dataset
@@ -56,7 +58,9 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Self-critical Sequence Training for Image Captioning | 2017 CVPR | [1612.00563](https://arxiv.org/abs/1612.00563) | []() | []() |
 | A Hierarchical Approach for Generating Descriptive Image Paragraphs | 2017 CVPR | [1611.06607](https://arxiv.org/abs/1611.06607) | []() | []() |
 | Deep reinforcement learning-based image captioning with embedding reward | 2017 CVPR | [1704.03899](https://arxiv.org/abs/1704.03899) |  |  |
-| Semantic compositional networks for visual captioning | 2017 CVPR | [1611.08002](https://arxiv.org/abs/1611.08002) | []() | []() |
+| Semantic compositional networks for visual captioning | 2017 CVPR | [1611.08002](https://arxiv.org/abs/1611.08002) | [Semantic_Compositional_Nets](https://github.com/zhegan27/Semantic_Compositional_Nets) | []() |
+| Training for Diversity in Image Paragraph Captioning | 2018 EMNLP | [ENNLP 2018](https://www.aclweb.org/anthology/D18-1084/) | [image-paragraph-captioning](https://github.com/lukemelas/image-paragraph-captioning) | []() |
+| Neural Baby Talk | 2018 CVPR | [1803.09845](https://arxiv.org/abs/1803.09845) | [NeuralBabyTalk](https://github.com/jiasenlu/NeuralBabyTalk) | []() |
 | Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering | 2018 CVPR | [1707.07998](https://arxiv.org/abs/) | | |
 | Hierarchically Structured Reinforcement Learning for Topically Coherent Visual Story Generation | 2019 AAAI | [1805.08191](https://arxiv.org/abs/1805.08191) |  |  |
 | Unsupervised Image Captioning | 2019 CVPR | [1811.10787](https://arxiv.org/abs/1811.10787) | [unsupervised_captioning](https://github.com/fengyang0317/unsupervised_captioning) |  |
@@ -64,8 +68,14 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Dense Relational Captioning Triple-Stream Networks for Relationship-Based Captioning | 2019 CVPR | [1903.05942](https://arxiv.org/abs/1903.05942) | []() | []() |
 | Describing like Humans on Diversity in Image Captioning | 2019 CVPR | [1903.12020](https://arxiv.org/abs/1903.12020) | []() | []() |
 | Good News, Everyone! Context driven entity-aware captioning for news images | 2019 CVPR | [1904.01475](https://arxiv.org/abs/1904.01475) | []() | []() |
+| Auto-Encoding Scene Graphs for Image Captioning | 2019 CVPR | [1812.02378](https://arxiv.org/abs/1812.02378) | [SGAE](https://github.com/yangxuntu/SGAE) | []() |
+| Unsupervised Image Captioning | 2019 CVPR | [1811.10787](https://arxiv.org/abs/1811.10787) | [unsupervised_captioning](https://github.com/fengyang0317/unsupervised_captioning) | []() |
 | Robust Change Captioning | 2019 ICCV | [1901.02527](https://arxiv.org/abs/1901.02527) | []() | []() |
 | Attention on Attention for Image Captioning | 2019 ICCV | [1908.06954](https://arxiv.org/abs/1908.06954) | []() | []() |
+| Context-Aware Group Captioning via Self-Attention and Contrastive Features | 2020 CVPR | [2004.03708](https://arxiv.org/abs/2004.03708) | []() | []() |
+| Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs | 2020 CVPR | [2003.00387](https://arxiv.org/abs/2003.00387) | [asg2cap](https://github.com/cshizhe/asg2cap) | []() |
+| Comprehensive Image Captioning via Scene Graph Decomposition | 2020 ECCV | [2007.11731](https://arxiv.org/abs/2007.11731) | [Sub-GC](https://github.com/YiwuZhong/Sub-GC) | []() |
+| Are scene graphs good enough to improve Image Captioning? | 2020 AACL | [2009.12313](https://arxiv.org/abs/2009.12313) | []() | []() |
 |  |  | []() | []() | []() |
 
 ## Image Retrieval
@@ -95,8 +105,18 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Image Generation from Scene Graphs | 2018 CVPR | [1804.01622](https://arxiv.org/abs/1804.01622) | [sg2im](https://github.com/google/sg2im) |  |
 | Graph R-CNN for Scene Graph Generation | 2018 ECCV | [1808.00191](https://arxiv.org/abs/1808.00191) | [graph-rcnn.pytorch](https://github.com/jwyang/graph-rcnn.pytorch) |  |
 | Scene Graph Generation with External Knowledge and Image Reconstruction | 2019 CVPR | [1904.00560](https://arxiv.org/abs/1904.00560) |  |  |
-| Counterfactual Critic Multi-Agent Training for Scene Graph Generation | 2019 ICCV | [1812.02347](https://arxiv.org/abs/1812.02347) | []() | []() |
 | Specifying Object Attributes and Relations in Interactive Scene Generation | 2019 ICCV | [1909.05379](https://arxiv.org/abs/1909.05379) | [scene_generation](https://github.com/ashual/scene_generation) | []() |
+| Attentive Relational Networks for Mapping Images to Scene Graphs | 2019 CVPR | [1811.10696](https://arxiv.org/abs/1811.10696) | []() | []() |
+| Exploring Context and Visual Pattern of Relationship for Scene Graph Generation | 2019 CVPR | [sceneGraph_Mem](https://github.com/Kenneth-Wong/sceneGraph_Mem) | []() | []() |
+| Graphical Contrastive Losses for Scene Graph Parsing | 2019 CVPR | [1903.02728](https://arxiv.org/abs/1903.02728) | [ContrastiveLosses4VRD](https://github.com/NVIDIA/ContrastiveLosses4VRD) | []() |
+| Knowledge-Embedded Routing Network for Scene Graph Generation | 2019 CVPR | [1903.03326](https://arxiv.org/abs/1903.03326) | [KERN](https://github.com/yuweihao/KERN) | []() |
+| Learning to Compose Dynamic Tree Structures for Visual Contexts | 2019 CVPR | [1812.01880](https://arxiv.org/abs/1812.01880) | [VCTree](https://github.com/KaihuaTang/VCTree-Scene-Graph-Generation) | []() |
+| Counterfactual Critic Multi-Agent Training for Scene Graph Generation | 2019 ICCV | [1812.02347](https://arxiv.org/abs/1812.02347) | []() | []() |
+| Scene Graph Prediction with Limited Labels | 2019 ICCV | [1904.11622](https://arxiv.org/abs/1904.11622) | [limited-label](https://github.com/vincentschen/limited-label-scene-graphs) | []() |
+| Unbiased Scene Graph Generation from Biased Training | 2020 CVPR | [2002.11949](https://arxiv.org/abs/2002.11949) | [Scene-Graph-Benchmark](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch) | []() |
+| GPS-Net Graph Property Sensing Network for Scene Graph Generation | 2020 CVPR | [2003.12962](https://arxiv.org/abs/2003.12962) | [GPS-Net](https://github.com/taksau/GPS-Net) | []() |
+| Learning Visual Commonsense for Robust Scene Graph Generation | 2020 ECCV | [2006.09623](https://arxiv.org/abs/2006.09623) | []() | []() |
+| Sketching Image Gist Human-Mimetic Hierarchical Scene Graph Generation | 2020 ECCV | [2007.08760](https://arxiv.org/abs/2007.08760) | [het-eccv20](https://github.com/Kenneth-Wong/het-eccv20) | []() |
 |  |  | []() | []() | []() |
 
 ## text2image
@@ -121,9 +141,12 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks | 2016 CVPR | [1510.07712](https://arxiv.org/abs/1510.07712) | []() | []() |
 | Attention-Based Multimodal Fusion for Video Description | 2017 CVPR | [1701.03126](https://arxiv.org/abs/1701.03126) | []() | []() |
 | Semantic compositional networks for visual captioning | 2017 CVPR | [1611.08002](https://arxiv.org/abs/1611.08002) | []() | []() |
+| Task-Driven Dynamic Fusion: Reducing Ambiguity in Video Description | 2017 CVPR | [CVPR_2017](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Task-Driven_Dynamic_Fusion_CVPR_2017_paper.pdf) | []() | []() |
 | Bidirectional Attentive Fusion with Context Gating for Dense Video Captioning | 2018 CVPR | [1804.00100](https://arxiv.org/abs/1804.00100) | []() | []() |
 | Adversarial Inference for Multi-Sentence Video Description | 2019 CVPR | [1812.05634](https://arxiv.org/abs/1812.05634) | [adv-inf](https://github.com/jamespark3922/adv-inf) |  |
 | Streamlined Dense Video Captioning | 2019 CVPR | [1904.03870](https://arxiv.org/abs/1904.03870) | [DenseVideoCaptioning](https://github.com/JaywongWang/DenseVideoCaptioning) |  |
+| Object-aware Aggregation with Bidirectional Temporal Graph for Video Captioning | 2019 CVPR | [1906.04375](https://arxiv.org/abs/1906.04375) | []() | []() |
+| iPerceive: Applying Common-Sense Reasoning to Multi-Modal Dense Video Captioning and Video Question Answering | 2021 WACV | [2011.07735](https://arxiv.org/abs/2011.07735) | [iPerceive](https://github.com/amanchadha/iPerceive) | []() |
 |  |  | []() | []() | []() |
 
 ## Video Question Answering
@@ -131,6 +154,8 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Movieqa: Understanding stories in movies through question-answering | 2016 CVPR | [1512.02902](https://arxiv.org/abs/1512.02902) | [MovieQA](https://github.com/makarandtapaswi/MovieQA_CVPR2016) | []() |
 | TVQA: Localized, Compositional Video Question Answering | 2018 EMNLP | [1809.01696](https://arxiv.org/abs/1809.01696) | [TVQA](https://github.com/jayleicn/TVQA) |  |
+| Knowledge-Based Video Question Answering with Unsupervised Scene Descriptions | 2020 ECCV | [2007.08751](https://arxiv.org/abs/2007.08751) | [ROLL-VideoQA](https://github.com/noagarcia/ROLL-VideoQA) | []() |
+| iPerceive: Applying Common-Sense Reasoning to Multi-Modal Dense Video Captioning and Video Question Answering | 2021 WACV | [2011.07735](https://arxiv.org/abs/2011.07735) | [iPerceive](https://github.com/amanchadha/iPerceive) | []() |
 
 ## Video Understanding
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
@@ -144,6 +169,25 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Embodied Question Answering | 2018 CVPR | [1711.11543](https://arxiv.org/abs/1711.11543) | []() | [embodiedqa](https://embodiedqa.org/) |
 | Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments | 2018 CVPR | [1711.07280](https://arxiv.org/abs/1711.07280) | []() | [bringmeaspoon](https://bringmeaspoon.org/) |
+|  |  | []() | []() | []() |
+
+## Vision-and-Language Pretraining
+| Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
+| ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| LXMERT: Learning Cross-Modality Encoder Representations from Transformers | 2019 EMNLP | [1908.07490](https://arxiv.org/abs/1908.07490) | [lxmert](https://github.com/airsplay/lxmert) |  |
+| VideoBERT: A Joint Model for Video and Language Representation Learning | 2019 ICCV | [1904.01766](https://arxiv.org/abs/1904.01766) | []() | []() |
+| ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks | 2019 NIPS | [vilbert](https://github.com/jiasenlu/vilbert_beta) | []() | []() |
+| OmniNet: A unified architecture for multi-modal multi-task learning | 2019 arxiv | [1907.07804](https://arxiv.org/abs/1907.07804) | [OmniNet](https://github.com/subho406/OmniNet) | []() |
+| Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training | 2020 AAAI | [1908.06066](https://arxiv.org/abs/1908.06066) | [Unicoder](https://github.com/microsoft/Unicoder) | []() |
+| Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks | 2020 ECCV | [1911.11237](https://arxiv.org/abs/1911.11237) | [Oscar](https://github.com/microsoft/Oscar) | []() |
+| Learning to Learn Words from Visual Scenes | 2020 ECCV | [2004.06165](https://arxiv.org/abs/2004.06165) | [Oscar](https://github.com/microsoft/Oscar) | []() |
+| VinVL: Revisiting Visual Representations in Vision-Language Models  | 2021 CVPR | [2101.00529](https://arxiv.org/abs/2101.00529) | [VinVL](https://github.com/pzzhang/VinVL) | []() |
+| Learning Transferable Visual Models From Natural Language Supervision | 2021 arxiv | [2103.00020](https://arxiv.org/abs/2103.00020) | []() | []() |
+| Pretrained Transformers As Universal Computation Engines | 2021 arxiv | [2103.05247](https://arxiv.org/abs/2103.05247) | [universal-computation](https://github.com/kzl/universal-computation) | []() |
+| Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision | 2021 arxiv | [2102.05918](https://arxiv.org/abs/2102.05918) | []() | []() |
+| Self-supervised Pretraining of Visual Features in the Wild | 2021 arxiv | [2103.01988](https://arxiv.org/abs/2103.01988) | []() | []() |
+| Transformer is All You Need Multimodal Multitask Learning with a Unified Transformer | 2021 arxiv | [2102.10772](https://arxiv.org/abs/2102.10772) | []() | []() |
+| Zero-Shot Text-to-Image Generation | 2021 arxiv | [2102.12092](https://arxiv.org/abs/2102.12092) | []() | []() |
 |  |  | []() | []() | []() |
 
 ## Visual Dialog
@@ -177,12 +221,14 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Graph-Structured Representations for Visual Question Answering | 2017 CVPR | [1609.05600](https://arxiv.org/abs/1609.05600) | []() | []() |
 | Making the V in VQA Matter Elevating the Role of Image Understanding in Visual Question Answering | 2017 CVPR | [1612.00837](https://arxiv.org/abs/1612.00837) | []() | []() |
 | Learning to Reason: End-to-End Module Networks for Visual Question Answering | 2017 ICCV | [1704.05526](https://arxiv.org/abs/1704.05526) | []() | []() |
+| Explicit Reasoning over End-to-End Neural Architectures for Visual Question Answering | 2018 AAAI | [1803.08896](https://arxiv.org/abs/1803.08896) | [PSLQA](https://github.com/adityaSomak/PSLQA) | []() |
 | Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering | 2018 CVPR | [1707.07998](https://arxiv.org/abs/) | | |
 | Tips and Tricks for Visual Question Answering Learnings from the 2017 Challenge | 2018 CVPR | [1708.02711](https://arxiv.org/abs/1708.02711) | [vqa-winner](https://github.com/markdtw/vqa-winner-cvprw-2017) | []() |
 | Transfer Learning via Unsupervised Task Discovery for Visual Question Answering | 2019 CVPR | [1810.02358](https://arxiv.org/abs/1810.02358) | [VQA-Transfer-ExternalData](https://github.com/HyeonwooNoh/VQA-Transfer-ExternalData) |  |
 | GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering | 2019 CVPR | [1902.09506](https://arxiv.org/abs/1902.09506) | [visualreasoning](visualreasoning.net)  |
 | Towards VQA Models That Can Read | 2019 CVPR | [1904.08920](https://arxiv.org/abs/1904.08920) |  |  |
 | From Strings to Things: Knowledge-enabled VQA Model that can Read and Reason | 2019 ICCV | [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Singh_From_Strings_to_Things_Knowledge-Enabled_VQA_Model_That_Can_Read_ICCV_2019_paper.pdf) | []() | []() |
+| An Empirical Study on Leveraging Scene Graphs for Visual Question Answering | 2019 BMVC | [1907.12133](https://arxiv.org/abs/1907.12133) | [scene-graphs-vqa](https://github.com/czhang0528/scene-graphs-vqa) | []() |
 |  |  | []() | []() | []() |
 
 ## Visual Reasoning
@@ -190,7 +236,6 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning | 2017 CVPR | [1612.06890](https://arxiv.org/abs/1612.06890) | []() | []() |
 | Inferring and Executing Programs for Visual Reasoning | 2017 ICCV | [1705.03633](https://arxiv.org/abs/1705.03633) | []() | []() |
-| LXMERT: Learning Cross-Modality Encoder Representations from Transformers | 2019 EMNLP | [1908.07490](https://arxiv.org/abs/1908.07490) | [lxmert](https://github.com/airsplay/lxmert) |  |
 | GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering | 2019 CVPR | [1902.09506](https://arxiv.org/abs/1902.09506) | [visualreasoning](visualreasoning.net)  |
 | Explainable and Explicit Visual Reasoning over Scene Graphs | 2019 CVPR | [1812.01855](https://arxiv.org/abs/1812.01855) | []() | []() |
 | From Recognition to Cognition: Visual Commonsense Reasoning | 2019 CVPR | [1811.10830](https://arxiv.org/abs/1811.10830) | [r2c](https://github.com/rowanz/r2c/) | [VCR](https://visualcommonsense.com/) |
@@ -220,6 +265,8 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Visual Storytelling | 2016 NAACL  | [1604.03968](https://arxiv.org/abs/1604.03968) | [visual_genome_python_driver](https://github.com/ranjaykrishna/visual_genome_python_driver) | [VIST](http://visionandlanguage.net/VIST/) |
 | No Metrics Are Perfect Adversarial Reward Learning for Visual Storytelling | 2018 ACL | [1804.09160](https://arxiv.org/abs/1804.09160) | [AREL](https://github.com/eric-xw/AREL) |  |
 | Show, Reward and Tell: Automatic Generation of Narrative Paragraph from Photo Stream by Adversarial Training | 2018 AAAI | []() | []() | []() |
+| Hide-and-Tell: Learning to Bridge Photo Streams for Visual Storytelling | 2020 AAAI | [2002.00774](https://arxiv.org/abs/2002.00774) | []() | []() |
+| Storytelling from an Image Stream Using Scene Graphs | 2020 AAAI | [AAAI 2020](https://ojs.aaai.org//index.php/AAAI/article/view/6455) | []() | []() |
 |  |  | []() | []() | []() |
 
 ## Contributing
