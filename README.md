@@ -6,7 +6,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 * [Dataset](#dataset)
 * [Image Captioning](#image-captioning)
 * [Image Retrieval](#image-retrieval)
-* [Text Recognition (OCR)](#text-recognition)
+* [Scene Text Recognition (OCR)](#scene-text-recognition)
 * [Scene Graph](#scene-graph)
 * [text2image](#text2image)
 * [Video Captioning](#video-captioning)
@@ -24,9 +24,16 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 ## Survey
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
+| A Survey of Current Datasets for Vision and Language Research | 2015 EMNLP | [1506.06833](https://arxiv.org/abs/1506.06833) | []() | []() |
+| Multimodal Machine Learning: A Survey and Taxonomy |  | [1705.09406](https://arxiv.org/abs/1705.09406) | []() | []() |
 | A Comprehensive Survey of Deep Learning for Image Captioning |  | [1810.04020](https://arxiv.org/abs/1810.04020) | []() | []() |
 | Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods |  | [1907.09358](https://arxiv.org/abs/1907.09358) | []() | []() |
 | A Survey of Scene Graph Generation and Application |  | [Scene-Graph-Survey](https://www.xiaojun.ai/papers/Scene-Graph-Survey.pdf) | []() | []() |
+| Challenges and Prospects in Vision and Language Research |  | [1904.09317](https://arxiv.org/abs/1904.09317) | []() | []() |
+| Deep Multimodal Representation Learning: A Survey | 2019 ACCESS | [ACCESS 2019](https://ieeexplore.ieee.org/document/8715409) | []() | []() |
+| Multimodal Intelligence: Representation Learning, Information Fusion, and Applications |  | [1911.03977](https://arxiv.org/abs/1911.03977) | []() | []() |
+| Vision and Language: from Visual Perception to Content Creation | 2020 APSIPA | [1912.11872](https://arxiv.org/abs/1912.11872) | []() | []() |
+| Multimodal Research in Vision and Language: A Review of Current and Emerging Trends |  | [2010.09522](https://arxiv.org/abs/2010.09522) | []() | []() |
 |  |  | []() | []() | []() |
 
 ## Dataset
@@ -59,9 +66,11 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | A Hierarchical Approach for Generating Descriptive Image Paragraphs | 2017 CVPR | [1611.06607](https://arxiv.org/abs/1611.06607) | []() | []() |
 | Deep reinforcement learning-based image captioning with embedding reward | 2017 CVPR | [1704.03899](https://arxiv.org/abs/1704.03899) |  |  |
 | Semantic compositional networks for visual captioning | 2017 CVPR | [1611.08002](https://arxiv.org/abs/1611.08002) | [Semantic_Compositional_Nets](https://github.com/zhegan27/Semantic_Compositional_Nets) | []() |
+| StyleNet: Generating Attractive Visual Captions with Styles | 2017 CVPR | [CVPR 2017](https://ieeexplore.ieee.org/document/8099591/similar#similar) | [stylenet](https://github.com/kacky24/stylenet) | []() |
 | Training for Diversity in Image Paragraph Captioning | 2018 EMNLP | [ENNLP 2018](https://www.aclweb.org/anthology/D18-1084/) | [image-paragraph-captioning](https://github.com/lukemelas/image-paragraph-captioning) | []() |
 | Neural Baby Talk | 2018 CVPR | [1803.09845](https://arxiv.org/abs/1803.09845) | [NeuralBabyTalk](https://github.com/jiasenlu/NeuralBabyTalk) | []() |
 | Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering | 2018 CVPR | [1707.07998](https://arxiv.org/abs/) | | |
+| “Factual” or “Emotional”: Stylized Image Captioning with Adaptive Learning and Attention | 2018 ECCV | [1807.03871](https://arxiv.org/abs/1807.03871) | []() | []() |
 | Hierarchically Structured Reinforcement Learning for Topically Coherent Visual Story Generation | 2019 AAAI | [1805.08191](https://arxiv.org/abs/1805.08191) |  |  |
 | Unsupervised Image Captioning | 2019 CVPR | [1811.10787](https://arxiv.org/abs/1811.10787) | [unsupervised_captioning](https://github.com/fengyang0317/unsupervised_captioning) |  |
 | Context-aware visual policy network for fine-grained image captioning | 2019 TPAMI | [1906.02365](https://arxiv.org/abs/1906.02365) | [CAVP](https://github.com/daqingliu/CAVP) |  |
@@ -70,12 +79,14 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Good News, Everyone! Context driven entity-aware captioning for news images | 2019 CVPR | [1904.01475](https://arxiv.org/abs/1904.01475) | []() | []() |
 | Auto-Encoding Scene Graphs for Image Captioning | 2019 CVPR | [1812.02378](https://arxiv.org/abs/1812.02378) | [SGAE](https://github.com/yangxuntu/SGAE) | []() |
 | Unsupervised Image Captioning | 2019 CVPR | [1811.10787](https://arxiv.org/abs/1811.10787) | [unsupervised_captioning](https://github.com/fengyang0317/unsupervised_captioning) | []() |
+| MSCap: Multi-Style Image Captioning with Unpaired Stylized Text | 2019 CVPR | [CVPR 2019](https://ieeexplore.ieee.org/document/8953861) | []() | []() |
 | Robust Change Captioning | 2019 ICCV | [1901.02527](https://arxiv.org/abs/1901.02527) | []() | []() |
 | Attention on Attention for Image Captioning | 2019 ICCV | [1908.06954](https://arxiv.org/abs/1908.06954) | []() | []() |
 | Context-Aware Group Captioning via Self-Attention and Contrastive Features | 2020 CVPR | [2004.03708](https://arxiv.org/abs/2004.03708) | []() | []() |
 | Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs | 2020 CVPR | [2003.00387](https://arxiv.org/abs/2003.00387) | [asg2cap](https://github.com/cshizhe/asg2cap) | []() |
 | Comprehensive Image Captioning via Scene Graph Decomposition | 2020 ECCV | [2007.11731](https://arxiv.org/abs/2007.11731) | [Sub-GC](https://github.com/YiwuZhong/Sub-GC) | []() |
 | Are scene graphs good enough to improve Image Captioning? | 2020 AACL | [2009.12313](https://arxiv.org/abs/2009.12313) | []() | []() |
+| SG2Caps: Revisiting Scene Graphs for Image Captioning | 2021 arxiv | [2102.04990](https://arxiv.org/abs/2102.04990) | []() | []() |
 |  |  | []() | []() | []() |
 
 ## Image Retrieval
@@ -85,7 +96,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Composing Text and Image for Image Retrieval - An Empirical Odyssey | 2019 CVPR | [1812.07119](https://arxiv.org/abs/1812.07119) | [tirg](https://github.com/google/tirg) | []() |
 |  |  | []() | []() | []() |
 
-## Text Recognition
+## Scene Text Recognition
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Towards Unconstrained End-to-End Text Spotting | 2019 ICCV | [1908.09231](https://arxiv.org/abs/1908.09231) | []() | []() |
@@ -179,15 +190,18 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks | 2019 NIPS | [vilbert](https://github.com/jiasenlu/vilbert_beta) | []() | []() |
 | OmniNet: A unified architecture for multi-modal multi-task learning | 2019 arxiv | [1907.07804](https://arxiv.org/abs/1907.07804) | [OmniNet](https://github.com/subho406/OmniNet) | []() |
 | Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training | 2020 AAAI | [1908.06066](https://arxiv.org/abs/1908.06066) | [Unicoder](https://github.com/microsoft/Unicoder) | []() |
+| Unified Vision-Language Pre-Training for Image Captioning and VQA | 2020 AAAI | [1909.11059](https://arxiv.org/abs/1909.11059) | [VLP](https://github.com/LuoweiZhou/VLP) | []() |
 | Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks | 2020 ECCV | [1911.11237](https://arxiv.org/abs/1911.11237) | [Oscar](https://github.com/microsoft/Oscar) | []() |
 | Learning to Learn Words from Visual Scenes | 2020 ECCV | [2004.06165](https://arxiv.org/abs/2004.06165) | [Oscar](https://github.com/microsoft/Oscar) | []() |
 | VinVL: Revisiting Visual Representations in Vision-Language Models  | 2021 CVPR | [2101.00529](https://arxiv.org/abs/2101.00529) | [VinVL](https://github.com/pzzhang/VinVL) | []() |
+| VirTex: Learning Visual Representations from Textual Annotations | 2021 CVPR | [2006.06666](https://arxiv.org/abs/2006.06666) | [virtex](https://github.com/kdexd/virtex) | []() |
 | Learning Transferable Visual Models From Natural Language Supervision | 2021 arxiv | [2103.00020](https://arxiv.org/abs/2103.00020) | []() | []() |
 | Pretrained Transformers As Universal Computation Engines | 2021 arxiv | [2103.05247](https://arxiv.org/abs/2103.05247) | [universal-computation](https://github.com/kzl/universal-computation) | []() |
 | Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision | 2021 arxiv | [2102.05918](https://arxiv.org/abs/2102.05918) | []() | []() |
 | Self-supervised Pretraining of Visual Features in the Wild | 2021 arxiv | [2103.01988](https://arxiv.org/abs/2103.01988) | []() | []() |
 | Transformer is All You Need Multimodal Multitask Learning with a Unified Transformer | 2021 arxiv | [2102.10772](https://arxiv.org/abs/2102.10772) | []() | []() |
 | Zero-Shot Text-to-Image Generation | 2021 arxiv | [2102.12092](https://arxiv.org/abs/2102.12092) | []() | []() |
+| WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training | 2021 arxiv | [2103.06561](https://arxiv.org/abs/2103.06561) | []() | []() |
 |  |  | []() | []() | []() |
 
 ## Visual Dialog
