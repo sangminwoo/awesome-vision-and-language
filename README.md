@@ -192,6 +192,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training | 2020 AAAI | [1908.06066](https://arxiv.org/abs/1908.06066) | [Unicoder](https://github.com/microsoft/Unicoder) | []() |
 | Unified Vision-Language Pre-Training for Image Captioning and VQA | 2020 AAAI | [1909.11059](https://arxiv.org/abs/1909.11059) | [VLP](https://github.com/LuoweiZhou/VLP) | []() |
 | Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks | 2020 ECCV | [1911.11237](https://arxiv.org/abs/1911.11237) | [Oscar](https://github.com/microsoft/Oscar) | []() |
+| Unsupervised Learning of Visual Features by Contrasting Cluster Assignments | 2020 NIPS | [2006.09882](https://arxiv.org/abs/2006.09882) | [swav](https://github.com/facebookresearch/swav) | []() |
 | Learning to Learn Words from Visual Scenes | 2020 ECCV | [2004.06165](https://arxiv.org/abs/2004.06165) | [Oscar](https://github.com/microsoft/Oscar) | []() |
 | VinVL: Revisiting Visual Representations in Vision-Language Models  | 2021 CVPR | [2101.00529](https://arxiv.org/abs/2101.00529) | [VinVL](https://github.com/pzzhang/VinVL) | []() |
 | VirTex: Learning Visual Representations from Textual Annotations | 2021 CVPR | [2006.06666](https://arxiv.org/abs/2006.06666) | [virtex](https://github.com/kdexd/virtex) | []() |
