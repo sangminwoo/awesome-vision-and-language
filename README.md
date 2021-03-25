@@ -194,6 +194,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks | 2020 ECCV | [1911.11237](https://arxiv.org/abs/1911.11237) | [Oscar](https://github.com/microsoft/Oscar) | []() |
 | Unsupervised Learning of Visual Features by Contrasting Cluster Assignments | 2020 NIPS | [2006.09882](https://arxiv.org/abs/2006.09882) | [swav](https://github.com/facebookresearch/swav) | []() |
 | Learning to Learn Words from Visual Scenes | 2020 ECCV | [2004.06165](https://arxiv.org/abs/2004.06165) | [Oscar](https://github.com/microsoft/Oscar) | []() |
+| ERNIE-ViL: Knowledge Enhanced Vision-Language Representations through Scene Graphs | 2021 AAAI | [2006.16934](https://arxiv.org/abs/2006.16934) | [ERNIE](https://github.com/PaddlePaddle/ERNIE) | []() |
 | VinVL: Revisiting Visual Representations in Vision-Language Models  | 2021 CVPR | [2101.00529](https://arxiv.org/abs/2101.00529) | [VinVL](https://github.com/pzzhang/VinVL) | []() |
 | VirTex: Learning Visual Representations from Textual Annotations | 2021 CVPR | [2006.06666](https://arxiv.org/abs/2006.06666) | [virtex](https://github.com/kdexd/virtex) | []() |
 | Learning Transferable Visual Models From Natural Language Supervision | 2021 arxiv | [2103.00020](https://arxiv.org/abs/2103.00020) | []() | []() |
