@@ -94,6 +94,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Visual Word2Vec (vis-w2v) Learning Visually Grounded Word Embeddings Using Abstract Scenes | 2016 CVPR | [1511.07067](https://arxiv.org/abs/1511.07067) | [VisualWord2Vec](https://github.com/satwikkottur/VisualWord2Vec) | []() |
 | Composing Text and Image for Image Retrieval - An Empirical Odyssey | 2019 CVPR | [1812.07119](https://arxiv.org/abs/1812.07119) | [tirg](https://github.com/google/tirg) | []() |
+| ImageCoDe: Image Retrieval from Contextual Descriptions | 2022 ACL | [2203.15867](https://arxiv.org/abs/2203.15867) | [ImageCoDe](https://github.com/McGill-NLP/imagecode) | []() |
 |  |  | []() | []() | []() |
 
 ## Scene Text Recognition
