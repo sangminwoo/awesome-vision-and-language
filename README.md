@@ -50,6 +50,8 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering | 2019 CVPR | [1902.09506](https://arxiv.org/abs/1902.09506) | [visualreasoning](visualreasoning.net)  |
 | From Recognition to Cognition: Visual Commonsense Reasoning | 2019 CVPR | [1811.10830](https://arxiv.org/abs/1811.10830) | [r2c](https://github.com/rowanz/r2c/) | [VCR](https://visualcommonsense.com/) |
 | VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research | 2019 ICCV | [1904.03493](https://arxiv.org/abs/1904.03493) | []() | []() |
+| Bongard-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning | 2020 NeurIPS | [2010.00763](https://arxiv.org/abs/2010.00763) | [Bongard-LOGO](https://github.com/NVlabs/Bongard-LOGO) | []() |
+| Bongard-HOI: Benchmarking Few-Shot Visual Reasoning for Human-Object Interactions | 2022 CVPR |[2205.13803](https://arxiv.org/abs/2205.13803)| [Bongard-HOI](https://github.com/NVlabs/Bongard-HOI)| []() |
 |  |  | []() | []() | []() |
 
 ## Image Captioning
@@ -246,6 +248,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Towards VQA Models That Can Read | 2019 CVPR | [1904.08920](https://arxiv.org/abs/1904.08920) |  |  |
 | From Strings to Things: Knowledge-enabled VQA Model that can Read and Reason | 2019 ICCV | [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Singh_From_Strings_to_Things_Knowledge-Enabled_VQA_Model_That_Can_Read_ICCV_2019_paper.pdf) | []() | []() |
 | An Empirical Study on Leveraging Scene Graphs for Visual Question Answering | 2019 BMVC | [1907.12133](https://arxiv.org/abs/1907.12133) | [scene-graphs-vqa](https://github.com/czhang0528/scene-graphs-vqa) | []() |
+| RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning | 2022 ICLR |[2204.11167](https://arxiv.org/abs/2204.11167)| [RelViT](https://github.com/NVlabs/RelViT)| []() |
 |  |  | []() | []() | []() |
 
 ## Visual Reasoning
@@ -258,7 +261,11 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | From Recognition to Cognition: Visual Commonsense Reasoning | 2019 CVPR | [1811.10830](https://arxiv.org/abs/1811.10830) | [r2c](https://github.com/rowanz/r2c/) | [VCR](https://visualcommonsense.com/) |
 | Dynamic Graph Attention for Referring Expression Comprehension | 2019 ICCV | [1909.08164](https://arxiv.org/abs/1909.08164) | []() | []() |
 | Visual Semantic Reasoning for Image-Text Matching | 2019 ICCV | [1909.02701](https://arxiv.org/abs/1909.02701) | [VSRN](https://github.com/KunpengLi1994/VSRN) | []() |
+| Bongard-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning | 2020 NeurIPS | [2010.00763](https://arxiv.org/abs/2010.00763) | [Bongard-LOGO](https://github.com/NVlabs/Bongard-LOGO) | []() |
+| Bongard-HOI: Benchmarking Few-Shot Visual Reasoning for Human-Object Interactions | 2022 CVPR |[2205.13803](https://arxiv.org/abs/2205.13803)| [Bongard-HOI](https://github.com/NVlabs/Bongard-HOI)| []() |
+| RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning | 2022 ICLR |[2204.11167](https://arxiv.org/abs/2204.11167)| [RelViT](https://github.com/NVlabs/RelViT)| []() |
 |  |  | []() | []() | []() |
+
 
 ## Visual Relationship Detection
 | Title                                       | Conference / Journal | Paper                                     | Code                                        | Remarks   |
