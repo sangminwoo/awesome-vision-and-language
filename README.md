@@ -250,6 +250,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | From Strings to Things: Knowledge-enabled VQA Model that can Read and Reason | 2019 ICCV | [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Singh_From_Strings_to_Things_Knowledge-Enabled_VQA_Model_That_Can_Read_ICCV_2019_paper.pdf) | []() | []() |
 | An Empirical Study on Leveraging Scene Graphs for Visual Question Answering | 2019 BMVC | [1907.12133](https://arxiv.org/abs/1907.12133) | [scene-graphs-vqa](https://github.com/czhang0528/scene-graphs-vqa) | []() |
 | RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning | 2022 ICLR |[2204.11167](https://arxiv.org/abs/2204.11167)| [RelViT](https://github.com/NVlabs/RelViT)| []() |
+| TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation | 2022 arXiv |[2208.01813](https://arxiv.org/abs/2208.01813)| [TAG](https://github.com/HenryJunW/TAG)| []() |
 |  |  | []() | []() | []() |
 
 ## Visual Reasoning
