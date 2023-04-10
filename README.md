@@ -225,6 +225,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Learning to Assemble Neural Module Tree Networks for Visual Grounding | 2019 ICCV | [1812.03299](https://arxiv.org/abs/1812.03299) | []() | []() |
 | A Fast and Accurate One-Stage Approach to Visual Grounding | 2019 ICCV | [1908.06354](https://arxiv.org/abs/1908.06354) | []() | []() |
 | Zero-Shot Grounding of Objects from Natural Language Queries | 2019 ICCV | [1908.07129](https://arxiv.org/abs/1908.07129) | [zsgnet](https://github.com/TheShadow29/zsgnet-pytorch) | []() |
+| Collaborative Transformers for Grounded Situation Recognition | 2022 CVPR | [2203.16518](https://arxiv.org/abs/2203.16518) | [CoFormer](https://github.com/jhcho99/CoFormer) | []() |
 |  |  | []() | []() | []() |
 
 ## Visual Question Answering
