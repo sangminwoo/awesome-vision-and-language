@@ -208,6 +208,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Transformer is All You Need Multimodal Multitask Learning with a Unified Transformer | 2021 arxiv | [2102.10772](https://arxiv.org/abs/2102.10772) | []() | []() |
 | Zero-Shot Text-to-Image Generation | 2021 arxiv | [2102.12092](https://arxiv.org/abs/2102.12092) | []() | []() |
 | WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training | 2021 arxiv | [2103.06561](https://arxiv.org/abs/2103.06561) | []() | []() |
+| Improved baselines for vision-language pre-training | 2023 arxiv | [2305.08675](https://arxiv.org/abs/2305.08675) | []() | []() |
 |  |  | []() | []() | []() |
 
 ## Visual Dialog
