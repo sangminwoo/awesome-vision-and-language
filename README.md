@@ -216,6 +216,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Visual Dialog | 2017 CVPR | [1611.08669](https://arxiv.org/abs/1611.08669) | [visdial](https://github.com/batra-mlp-lab/visdial) | [visualdialog](https://visualdialog.org/) |
 | Two Can Play This Game: Visual Dialog With Discriminative Question Generation and Answering | 2018 CVPR | [1803.11186](https://arxiv.org/abs/1803.11186) |  |  |
+| Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation | 2023 | [2303.05983](https://arxiv.org/abs/2303.05983) | [ATVC](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) | []() |
 |  |  | []() | []() | []() |
 
 ## Visual Grounding
