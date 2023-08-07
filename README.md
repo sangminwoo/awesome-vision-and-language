@@ -269,6 +269,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Bongard-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning | 2020 NeurIPS | [2010.00763](https://arxiv.org/abs/2010.00763) | [Bongard-LOGO](https://github.com/NVlabs/Bongard-LOGO) | []() |
 | Bongard-HOI: Benchmarking Few-Shot Visual Reasoning for Human-Object Interactions | 2022 CVPR |[2205.13803](https://arxiv.org/abs/2205.13803)| [Bongard-HOI](https://github.com/NVlabs/Bongard-HOI)| []() |
 | RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning | 2022 ICLR |[2204.11167](https://arxiv.org/abs/2204.11167)| [RelViT](https://github.com/NVlabs/RelViT)| []() |
+| PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization | 2023 ICCV |[2307.15199](https://arxiv.org/abs/2307.15199)| [PromptStyler](https://promptstyler.github.io/)| []() |
 |  |  | []() | []() | []() |
 
 
