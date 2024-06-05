@@ -184,6 +184,8 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | ------------------------------------------- | ---------- | ----------------------------------------- | ------------------------------------------- |-----------|
 | Embodied Question Answering | 2018 CVPR | [1711.11543](https://arxiv.org/abs/1711.11543) | []() | [embodiedqa](https://embodiedqa.org/) |
 | Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments | 2018 CVPR | [1711.07280](https://arxiv.org/abs/1711.07280) | []() | [bringmeaspoon](https://bringmeaspoon.org/) |
+| Frequency-Enhanced Data Augmentation for Vision-and-Language Navigation | 2023 NeurIPS | [fda_pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/0d9e08f247ca7fbbfd5e50b7ff9cf357-Paper-Conference.pdf) | [fda_code](https://github.com/hekj/FDA) | []() |
+| Memory-adaptive vision-and-language navigation | 2024 PR | [mam_paper](https://www-sciencedirect-com.libproxy1.nus.edu.sg/science/article/pii/S0031320324002620) | []() | []() |
 |  |  | []() | []() | []() |
 
 ## Vision-and-Language Pretraining
