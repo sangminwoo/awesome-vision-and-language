@@ -98,6 +98,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Composing Text and Image for Image Retrieval - An Empirical Odyssey | 2019 CVPR | [1812.07119](https://arxiv.org/abs/1812.07119) | [tirg](https://github.com/google/tirg) | []() |
 | Learning Relation Alignment for Calibrated Cross-modal Retrieval | 2021 ACL | [2105.13868](https://arxiv.org/abs/2105.13868) | [IAIS](https://github.com/lancopku/IAIS) | []() |
 | ImageCoDe: Image Retrieval from Contextual Descriptions | 2022 ACL | [2203.15867](https://arxiv.org/abs/2203.15867) | [ImageCoDe](https://github.com/McGill-NLP/imagecode) | []() |
+| Assessing Brittleness of Image-Text Retrieval Benchmarks from Vision-Language Models Perspective |  | [2407.15239](https://arxiv.org/abs/2407.15239) | []() | []() |
 |  |  | []() | []() | []() |
 
 ## Scene Text Recognition
